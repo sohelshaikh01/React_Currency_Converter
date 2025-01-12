@@ -3,15 +3,16 @@
 - Used React Custom Hooks
 - Used Fetch API function to get currency values
 
-**URL Link**
+## To create this application: 
 
-https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/inr.json
+**URL Link** 
 
-Ex: `inr` is used to fetch indian currency.
+    https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/inr.json
 
-- Intergrate this url in your application
+Ex:    `inr` is used to fetch indian currency.
+
+- Intergrate this url in your application code
 - Change the currency value dynamically in code
-
 
 ### Preview of The Application
 
